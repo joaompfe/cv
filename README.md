@@ -26,7 +26,7 @@ I did feature development and bug fixing in a few million lines monolith in  col
 
 Technologies included Scala w/ Play framework, MongoDB, Typelevel cats, Akka actors, Ember, and React.
 
-### Software engineer @ Softinsa/IBM 2022 January to December.
+### Software engineer @ Softinsa/IBM 2022 January to December
 
 I rewrote a simple applicatiom from scratch for Schütz GmbH (whom would later hire me directly).
 
